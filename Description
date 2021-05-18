@@ -1,0 +1,16 @@
+A full description of the product(s).
+
+- Color X
+    Displays flashing colors. Doesent really have a use(other than entertainment).
+- Matrixx
+    The typical number screen. Doesent really have a use(other than entertainment).
+- COV(1)
+    Spams with command prompt windows. Can crash OS if left open for long periods(specially on low RAM PC's).
+- COV(2)
+    Also spams with cmd windows, but shuts down after 5 seconds.
+- ILYV(I love you virus)
+    Asks if you love it(or the person sending it) and, if responded "no", shuts down PC with a message.
+- LTS(Long Term Shutdown)
+    Shuts down after 5 minutes.
+- LTS(custom)
+    Shuts down with custom time.
